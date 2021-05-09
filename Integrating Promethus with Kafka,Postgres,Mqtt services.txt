@@ -1,0 +1,29 @@
+Integrating promethus with kafka:
+https://www.metricfire.com/blog/kafka-monitoring-using-prometheus/
+
+https://www.confluent.co.uk/blog/monitor-kafka-clusters-with-prometheus-grafana-and-confluent/
+
+https://medium.com/activewizards-machine-learning-company/kafka-monitoring-with-prometheus-telegraf-and-grafana-6228fed736f1
+->This url is in detailed way
+
+https://blog.knoldus.com/monitoring-kafka-with-prometheus-and-grafana/
+
+https://www.youtube.com/watch?v=hL82UnQMnGM
+
+Integrating promethus with postgrres:
+
+https://medium.com/@shevtsovav/all-databases-on-the-eyes-postgres-exporter-prometheus-grafana-d4c4f749d6aa
+
+https://schh.medium.com/monitoring-postgresql-databases-using-postgres-exporter-along-with-prometheus-and-grafana-1d68209ca687
+
+https://fatdba.com/2021/03/24/how-to-monitor-your-postgresql-database-using-grafana-prometheus-postgres_exporter/
+
+https://www.youtube.com/watch?v=XEKy6rUszzE
+
+Integrating promethus with Mqtt
+
+https://emqx.medium.com/monitoring-mqtt-broker-with-prometheus-and-grafana-3268eb652e30
+
+https://github.com/hikhvar/mqtt2prometheus
+
+https://github.com/inuits/mqttgateway
